@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Travelmantics1</string>
+    <string name="signIn">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="city_name">Enter city name</string>
+    <string name="price">Enter price</string>
+    <string name="description">Little description</string>
+    <string name="select_image">select image</string>
+    <string name="save_order_title">SAVE</string>
+    <string name="signOut_text">Sign out</string>
+    <string name="first_entry">Las Vegas</string>
+    <string name="second_entry">Las Vegas Hollydays Resort</string>
+    <string name="third_entry">150000</string>
+</resources>
